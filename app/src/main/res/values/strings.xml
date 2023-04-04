@@ -1,0 +1,171 @@
+<resources>
+    <string name="app_name">TopWorldUniversityApp</string>
+    <string name="universities_name">Universities Name</string>
+    <string name="description">Description :</string>
+    <string name="score">Score</string>
+    <string name="about">About Me</string>
+    <string name="email">a030dsx2301@bangkit.academy</string>
+    <string name="name">Samuel I. H. Sibuea</string>
+    <string name="university">University</string>
+    <string name="country">Country</string>
+    <string name="motto">Motto</string>
+    <string name="detail">Detail of Description</string>
+    <string name="share">Share It</string>
+    <string-array name="data_name">
+        <item>Massachusetts Institute of Technology (MIT)</item>
+        <item>University of Cambridge</item>
+        <item>Stanford University</item>
+        <item>University of Oxford</item>
+        <item>Harvard University</item>
+        <item>California Institute of Technology (Caltech)</item>
+        <item>Imperial College London</item>
+        <item>UCL</item>
+        <item>ETH Zurich</item>
+        <item>University of Chicago</item>
+        <item>National University of Singapore (NUS)</item>
+        <item>Peking University</item>
+        <item>University of Pennsylvania</item>
+        <item>Tsinghua University</item>
+        <item>The University of Edinburgh</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>The Massachusetts Institute of Technology (MIT) is a private land-grant research university in Cambridge, Massachusetts. Established in 1861, MIT has played a key role in the development of modern technology and science, and is one of the most prestigious and highly ranked academic institutions in the world. </item>
+        <item>The University of Cambridge is a public collegiate research university in Cambridge, England. Founded in 1209, it is the world\'s third-oldest university in continuous operation. The university\'s founding followed the arrival of scholars who left the University of Oxford for Cambridge after a dispute with local townspeople. The two ancient English universities, although sometimes described as rivals, share many common features and are often jointly referred to as Oxbridge. In 1231, 22 years after its founding, the university was recognised with a royal charter granted by King Henry III.
+            The University of Cambridge includes 31 semi-autonomous constituent colleges and over 150 academic departments, faculties, and other institutions organised into six schools. Stanford is a place of discovery, creativity and innovation located in the San Francisco Bay Area on the ancestral land of the Muwekma Ohlone Tribe. </item>
+        <item>Stanford University, officially Leland Stanford Junior University, is a private research university in Stanford, California. The campus occupies 8,180 acres (3,310 hectares), among the largest in the United States, and enrolls over 17,000 students. Stanford is ranked among the top universities in the world. Stanford University’s campus is located within the traditional territory of the Muwekma Ohlone Tribe. The university has been engaged with Ohlone sites and communities since its founding in the mid-1880s. Today, the university has a vibrant community of Native students, faculty, staff, and alumni.</item>
+
+        <item>The University of Oxford is a collegiate research university in Oxford, England. There is evidence of teaching as early as 1096, making it the oldest university in the English-speaking world and the world\'s second-oldest university in continuous operation. It grew rapidly from 1167 when Henry II banned English students from attending the University of Paris. After disputes between students and Oxford townsfolk in 1209, some academics fled north-east to Cambridge where they established what became the University of Cambridge. The two English ancient universities share many common features and are jointly referred to as Oxbridge.</item>
+        <item>
+            Harvard University is a private Ivy League research university in Cambridge, Massachusetts. Founded in 1636 as Harvard College and named for its first benefactor, the Puritan clergyman John Harvard, it is the oldest institution of higher learning in the United States and one of the most prestigious worldwide.
+            Harvard\'s founding was authorized by the Massachusetts colonial legislature, "dreading to leave an illiterate ministry to the churches, when our present ministers shall lie in the dust"; though never formally affiliated with any denomination, in its early years Harvard College primarily trained Congregational clergy. Its curriculum and student body were gradually secularized during the 18th century. By the 19th century, Harvard emerged as the most prominent academic and cultural institution among the Boston elite. Following the American Civil War, under President Charles William Eliot\'s long tenure (1869–1909),
+            the college developed multiple affiliated professional schools that transformed the college into a modern research university. In 1900, Harvard co-founded the Association of American Universities. James B. Conant led the university through the Great Depression and World War II, and liberalized admissions after the war.
+        </item>
+        <item>
+            The California Institute of Technology (branded as Caltech or CIT) is a private research university in Pasadena, California. Caltech is ranked among the best academic institutions in the world, and with an enrollment of approximately 2400 students, it is one of the world\'s most selective universities. The university is known for its strength in science and engineering, and is among a small group of institutes of technology in the United States which is primarily devoted to the instruction of pure and applied sciences.
+            The institution was founded as a preparatory and vocational school by Amos G. Throop in 1891 and began attracting influential scientists such as George Ellery Hale, Arthur Amos Noyes, and Robert Andrews Millikan in the early 20th century. The vocational and preparatory schools were disbanded and spun off in 1910 and the college assumed its present name in 1920.
+        </item>
+        <item>
+            Imperial College London (legally Imperial College of Science, Technology and Medicine) is a public research university in London, United Kingdom. Its history began with Prince Albert, consort of Queen Victoria, who developed his vision for a cultural area that included the Royal Albert Hall, Victoria and Albert Museum, Natural History Museum and royal colleges. In 1907, Imperial College was established by a royal charter, which unified the Royal College of Science, Royal School of Mines, and City and Guilds of London Institute. In 1988, the Imperial College School of Medicine was formed by merging with St Mary\'s Hospital Medical School. In 2004, Queen Elizabeth II opened the Imperial College Business School.
+        </item>
+        <item>
+            University College London, which operates as UCL, is a public research university in London, United Kingdom. It is a member institution of the federal University of London, and is the second-largest university in the United Kingdom by total enrolment and the largest by postgraduate enrolment.
+            Established in 1826, as London University, by founders inspired by the radical ideas of Jeremy Bentham, UCL was the first university institution to be established in London, and the first in England to be entirely secular and to admit students regardless of their religion.
+        </item>
+        <item>
+            ETH Zurich (English: ETH; Swiss Federal Institute of Technology in Zürich; German: Eidgenössische Technische Hochschule Zürich) is a public research university in Zürich, Switzerland. Founded by the Swiss federal government in 1854, it was modeled on the École polytechnique in Paris, with the stated mission to educate engineers and scientists; the school focuses primarily on science, technology, engineering, and mathematics, although its 16 departments span a variety of disciplines and subjects.
+            Like its sister institution, the Swiss Federal Institute of Technology in Lausanne (EPFL), ETH Zurich is part of the Swiss Federal Institutes of Technology Domain, a consortium of government universities and research institutes under the Swiss Federal Department of Economic Affairs, Education and Research. As a public institution, it grants admission to every Swiss resident who has matriculated. As of 2021, ETH Zurich enrolled 24,500 students from over 120 countries, of which 4,460 were pursuing doctoral degrees.
+        </item>
+        <item>
+            The University of Chicago is a private research university in Chicago. The university, established in 1890, has its main campus in Chicago\'s Hyde Park neighborhood. Admissions at the University of Chicago are considered highly selective.
+            The university is composed of an undergraduate college and five graduate research divisions, which contain all of the university\'s graduate programs and interdisciplinary committees. It has eight professional schools: the Law School; the Booth School of Business; the Pritzker School of Medicine; the Crown Family School of Social Work, Policy, and Practice; the Harris School of Public Policy; the Divinity School; the Graham School of Continuing Liberal and Professional Studies; and the Pritzker School of Molecular Engineering.
+            The university has additional campuses and centers in London, Paris, Beijing, Delhi, and Hong Kong, as well as in downtown Chicago.
+        </item>
+        <item>
+            The National University of Singapore (NUS) is a national public research university in Singapore. Founded in 1905 as the Straits Settlements and Federated Malay States Government Medical School, NUS is the oldest autonomous university in the country. It offers degree programmes in a wide range of disciplines at both the undergraduate and postgraduate levels, including in the sciences, medicine and dentistry, design and environment, law, arts and social sciences, engineering, business, computing, and music.
+        </item>
+        <item>
+            Peking University (PKU; Chinese: 北京大学) is a public research university in Beijing, China. The university is funded by the Ministry of Education of China. A successor of the older Guozijian Imperial College, it was established as the Imperial University of Peking in 1898 when it received its royal charter by the Guangxu Emperor.
+            Throughout its history, Peking University has had an important role "at the center of major intellectual movements" in China. After the fall of the Qing dynasty and the Xinhai Revolution, its status as a royal institution was abolished. From the early 1920s, the university became a center for China\'s emerging, progressive, and republican movements.
+            Faculty and students held important roles in originating the New Culture Movement, the May Fourth Movement protests, and other significant cultural and sociopolitical events, to the extent that the university\'s history has been closely tied to that of modern China. Peking University has educated and hosted many prominent modern Chinese figures, including Mao Zedong, Lu Xun, Gu Hongming, Hu Shih, Mao Dun, Li Dazhao, Chen Duxiu, and current Premier Li Keqiang.
+        </item>
+
+        <item>
+            The University of Pennsylvania (also known as Penn or UPenn) is a private Ivy League research university in Philadelphia. It identifies as the fourth-oldest institution of higher education in the United States – following the precedent of Harvard, the University of Pennsylvania dates its founding to 1740, the date of the oldest trust it administers; however, it was not established as a school until Benjamin Franklin and other Philadelphians did so in 1749, which would make it the fifth-oldest institution of higher education.
+            The university has four undergraduate schools as well as twelve graduate and professional schools. Schools enrolling undergraduates include the College of Arts and Sciences, the School of Engineering and Applied Science, the Wharton School, and the School of Nursing. Among its highly ranked graduate schools are its law school, whose first professor James Wilson, wrote the first draft of the United States Constitution, its medical school, the first in North America, and Wharton, the first collegiate business school.
+            Penn\'s endowment is US$20.7 billion, putting it amongst the wealthiest academic institutions in the world, and its 2019 research budget was $1.02 billion.
+        </item>
+        <item>
+            Tsinghua University (simplified Chinese: 清华大学; traditional Chinese: 清華大學; pinyin: qīnghuá dàxué; abbr. THU) is a national public research university in Beijing, China. The university is funded by the Ministry of Education.
+            The university is a member of the C9 League, Double First Class University Plan, Project 985, and Project 211. Since its establishment in 1911, it has produced many notable leaders in science, engineering, politics, business, academia, and culture.
+        </item>
+        <item>
+        The University of Edinburgh (Scots: University o Edinburgh, Scottish Gaelic: Oilthigh Dhùn Èideann; abbreviated as Edin. in post-nominals) is a public research university based in Edinburgh, Scotland. Founded by the town council under the authority of a royal charter of King James VI in 1582 and officially opened in 1583, it is one of Scotland\'s four ancient universities and the sixth-oldest university in continuous operation in the English-speaking world.
+            The university played an important role in Edinburgh becoming a chief intellectual centre during the Scottish Enlightenment and contributed to the city being nicknamed the "Athens of the North." Edinburgh is ranked among the top universities in the United Kingdom and the world.
+        </item>
+    </string-array>
+    <string-array name="data_score">
+        <item>Score: 100.0</item>
+        <item>Score: 98.8</item>
+        <item>Score: 98.5</item>
+        <item>Score: 98.4</item>
+        <item>Score: 97.6</item>
+        <item>Score: 97</item>
+        <item>Score: 97</item>
+        <item>Score: 95</item>
+        <item>Score: 93.6</item>
+        <item>Score: 93.2</item>
+        <item>Score: 92.7</item>
+        <item>Score: 91.3</item>
+        <item>Score: 90.6</item>
+        <item>Score: 90.1</item>
+        <item>Score: 89.5</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/4/44/MIT_Seal.svg/225px-MIT_Seal.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Coat_of_Arms_of_the_University_of_Cambridge.svg/225px-Coat_of_Arms_of_the_University_of_Cambridge.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Logo_of_Stanford_University.png/225px-Logo_of_Stanford_University.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Coat_of_arms_of_the_University_of_Oxford.svg/203px-Coat_of_arms_of_the_University_of_Oxford.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/2/29/Harvard_shield_wreath.svg/225px-Harvard_shield_wreath.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/id/e/ea/Caltech_logo.svg.png?20110330091315</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Shield_of_Imperial_College_London.svg/225px-Shield_of_Imperial_College_London.svg.png</item>
+        <item>https://www.topuniversities.com/sites/default/files/profiles/logos/ucl_592560cf2aeae70239af4bf1_large.jpg</item>
+        <item>https://www.topuniversities.com/sites/default/files/profiles/logos/eth-zurich-swiss-federal-institute-of-technology_201_large.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/7/79/University_of_Chicago_shield.svg/195px-University_of_Chicago_shield.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/NUS_coat_of_arms.svg/225px-NUS_coat_of_arms.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Peking_University_seal.svg/225px-Peking_University_seal.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/225px-UPenn_shield_with_banner.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Tsinghua_University_Logo.svg/225px-Tsinghua_University_Logo.svg.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/thumb/7/7a/University_of_Edinburgh_ceremonial_roundel.svg/225px-University_of_Edinburgh_ceremonial_roundel.svg.png</item>
+    </string-array>
+    <string-array name="data_country">
+        <item>Country: United States</item>
+        <item>Country: United Kingdom</item>
+        <item>Country: United States</item>
+        <item>Country: United Kingdom</item>
+        <item>Country: United States</item>
+        <item>Country: United States</item>
+        <item>Country: United Kingdom</item>
+        <item>Country: United Kingdom</item>
+        <item>Country: Switzerland</item>
+        <item>Country: United States</item>
+        <item>Country: Singapore</item>
+        <item>Country: Mainland China</item>
+        <item>Country: United States</item>
+        <item>Country: Mainland China</item>
+        <item>Country: United Kingdom</item>
+    </string-array>
+    <string-array name="data_motto">
+        <item>"mens et manus"</item>
+        <item>"Hinc lucem et pocula sacra"</item>
+        <item>"Die Luft der Freiheit weht"</item>
+        <item>"Dominus illuminatio mea"</item>
+        <item>"Veritas"</item>
+        <item>"The truth shall make you free"</item>
+        <item>"Scientia imperii decus et tutamen"</item>
+        <item>"Cuncti adsint meritaeque expectent praemia palmae"</item>
+        <item>"Respect. Full Stop."</item>
+        <item>"Crescat scientia; vita excolatur"</item>
+        <item>"Dare to Reach the Highest"</item>
+        <item>"Advance the frontiers of knowledge, and achieve the highest levels of distinction in the discovery of knowledge and understanding"</item>
+        <item>"Leges Sine Moribus Vanae"</item>
+        <item>"Self-discipline and Social Commitment"</item>
+        <item>"Quaerite et Invenietis (Seek and You Shall Find)"</item>
+    </string-array>
+    <string-array name="data_student">
+        <item>11,035</item>
+        <item>20,871</item>
+        <item>14,518</item>
+        <item>21,972</item>
+        <item>21,877</item>
+        <item>2,240</item>
+        <item>20,191</item>
+        <item>41,194</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+</resources>
